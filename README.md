@@ -29,14 +29,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## Example QR Data
-
-NAME: Vara Prasad
-ROLLNO: 2023001
-BRANCH: M.Sc Computer Science
-
-## Output
-
-Vara Prasad
-```
